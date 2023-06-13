@@ -1,0 +1,12 @@
+{
+  "name": "lab-10-swagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "serve": "nodemon app.js"
+  },
+  "author": "Ayxan",
+  "license": "ISC"
+}
